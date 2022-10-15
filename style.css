@@ -145,7 +145,7 @@ ul.main-menu li a.active {
   min-height: 100%;
 }
 
-/* div {
+.div {
   position: absolute;
   margin: auto;
   top: 0;
@@ -154,14 +154,14 @@ ul.main-menu li a.active {
   left: 0;
   width: 200px;
   height: 200px;
-} */
+}
 
 /* Add some content at the bottom of the video/page */
-/* .content {
+.content {
   position: fixed;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
-} */
+}
