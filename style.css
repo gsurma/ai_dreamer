@@ -145,7 +145,7 @@ ul.main-menu li a.active {
   min-height: 100%;
 }
 
-div {
+/* div {
   position: absolute;
   margin: auto;
   top: 0;
@@ -154,7 +154,7 @@ div {
   left: 0;
   width: 200px;
   height: 200px;
-}
+} */
 
 /* Add some content at the bottom of the video/page */
 .content {
