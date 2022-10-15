@@ -1,0 +1,12 @@
+title: AI Dreamer - Art Generator iOS/macOS
+author: Greg (Grzegorz) Surma
+email: greg.surma@icloud.com
+description:
+url: "https://gsurma.github.io/ai_dreamer/"
+twitter_username: AIDreamerApp
+#google_analytics: UA-110543961-1
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
